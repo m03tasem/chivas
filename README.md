@@ -1,4 +1,4 @@
-# Viprofix
+# ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 BOT PROTECT CREATOR & ADMIN
 ------
 GET TOKEN :
@@ -49,11 +49,11 @@ Di Termux :
 - Ketik -> `python2 vipro.py`
 
 
-Credit By@ Vipro.
+Credit By@ ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂.
 ------
-- `Add My ID LINE : gjxvipro`
+- `Add My ID LINE : https://line.me/ti/p/Yx3w20LEwb`
 
 Thx To :
 ------
-- `LINE-TCR TEAM`
-
+- ``
+❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
