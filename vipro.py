@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 vipro = LINETCR.LINE()
 #vipro.login(qr=True)
-vipro.login(token='EpJgyNvzK8xQp88I04t9.2PnOnQMgNRHUYkUzkK6jEq./p92mOc1BPmafZPSgTcw4mkpBeT/czsWHBLRbK7Aewc=')
+vipro.login(token='EyM9FUGnUjCgzBD9g1h3.Pt9vsXYFErULrUPoXesFaW.bG0u1iOg2JkP1Q+/Atx9ulMqGS0ee3aSIOTlLxu95Uw=')
 vipro.loginResult()
 print "Vipro-Login Success\n\n=====[Sukses Login]====="
 
@@ -20,7 +20,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
-selfMessage ="""
+selfMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║            ☆☞ S E L F ☜☆
 ╠═════════════════════════
@@ -49,12 +49,12 @@ selfMessage ="""
 ╠➩〘Micdel @〙
 ╠➩〘Miclist〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
 
-botMessage ="""
+botMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║             ☆☞ B O T ☜☆
 ╠═════════════════════════
@@ -69,12 +69,12 @@ botMessage ="""
 ╠➩〘@bye〙
 ╠➩〘Bot on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
 
-mediaMessage ="""
+mediaMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║           ☆☞ M E D I A ☜☆
 ╠═════════════════════════
@@ -108,12 +108,12 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
 
-groupMessage ="""
+groupMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║           ☆☞ G R O U P ☜☆
 ╠═════════════════════════
@@ -143,13 +143,13 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
-vip="uda936836a9869eb86ec8ab992a4e8979"
+vip="u70254ffa864521b507735a1e7c57def9"
 
-setMessage ="""
+setMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║              ☆☞ S E T ☜☆
 ╠═════════════════════════
@@ -162,12 +162,12 @@ setMessage ="""
 ╠➩〘Sticker on〙
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
 
-creatorMessage ="""
+creatorMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║         ☆☞ C R E A T O R ☜☆
 ╠═════════════════════════
@@ -181,12 +181,12 @@ creatorMessage ="""
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
 
-adminMessage ="""
+adminMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║            ☆☞ A D M I N ☜☆
 ╠═════════════════════════
@@ -222,12 +222,12 @@ adminMessage ="""
 ╠➩〘Respon3 on/off〙
 ╠➩〘Responkick on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
 
-helpMessage ="""
+helpMessage ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════════════════
 ║              ☆☞ H E L P ☜☆
 ╠═════════════════════════
@@ -243,8 +243,8 @@ helpMessage ="""
 ╠➩〘Speed test〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             💠 By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ 💠
+║    〽️ line.me/ti/p/Yx3w20LEwb 〽️
 ╚═════════════════════════
 """
 
@@ -252,8 +252,8 @@ helpMessage ="""
 KAC=[vipro]
 mid = vipro.getProfile().mid
 Bots=[mid]
-Creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+Creator=["u70254ffa864521b507735a1e7c57def9"]
+admin=["u70254ffa864521b507735a1e7c57def9"]
 
 contact = vipro.getProfile()
 backup1 = vipro.getProfile()
@@ -269,7 +269,7 @@ wait = {
     "Bot":True,
     "AutoJoin":False,
     "AutoJoinCancel":False,
-    "memberscancel":30,
+    "memberscancel":70,
     "Members":1,
     "AutoCancel":False,
     "AutoKick":False,
@@ -286,10 +286,10 @@ wait = {
     'sticker':False,  
     'timeline':True,
     "Timeline":True,
-    "comment":"Bot Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",    
+    "comment":"Bot Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/Yx3w20LEwb",    
     "commentOn":True,
     "commentBlack":{},
-    "message":"Thx For Add Me (^_^)\nInvite Me To Your Group ヘ(^_^)ヘ",    
+    "message":"شكرا لاضافة 😍 الزعيم 😎 ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂",    
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
@@ -298,7 +298,7 @@ wait = {
     "Sambutan":False,
     "inviteprotect":False,    
     "alwaysRead":False,    
-    "Sider":{},
+    "Sider":{"ولا شفتك👀 تعال تعال لهوون😒 شديييتك من لون جكيتك😆 شارك😉 خليني احبك 😍"},
     "Simi":{},    
     "lang":"JP",
     "BlGroup":{}
