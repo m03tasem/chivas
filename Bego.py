@@ -39,27 +39,27 @@ import ast
 
 #tinkerbell
 cl = LINETCR.LINE()
-cl.login(token="En3bzLPUZfCleq3L5L96.9ImO1JzzvJAY41jd85AorG.iU5UbGETSX383Yf6E1bYWpiPPsgEcUbUYVO2yz97j6g=")
+cl.login(token="EyM9FUGnUjCgzBD9g1h3.Pt9vsXYFErULrUPoXesFaW.bG0u1iOg2JkP1Q+/Atx9ulMqGS0ee3aSIOTlLxu95Uw=")
 cl.loginResult()
 #vidia
 kt = LINETCR.LINE()
-kt.login(token="EnvXtU092Fm4Xy1y6Vze.LFR1EFW/1BDvHAxViu31NG.8DLTrO0xwWRquUZ4qLK0O1H0F8bPHMsCyxjDOv/uflI=")
+kt.login(token="EyaIEVzb63WUrxuhjLK9.Ccvp/OzfiBuhC1OEFfFE/q.zkPVC2b6nPuEJPQ1++4auyyX+7WfP56kRtjYSUKvYRY=")
 kt.loginResult()
 #rosetta
 ks = LINETCR.LINE()
-ks.login(token="EnGkF9s8JNJxwduSdtE8.izzXC1anKP6mSiBL2hfR6a.Cj6fxRB01SNNaoxybZlxQYgUwUnBXWfAtWvMCNDCHOs=")
+ks.login(token="EybY0P2XbUNoMSPpPfsf.x6PpBD6M9uGay7W2CBCh7W.Zzr9UNXomObGyu5UuXWuCs6HJAy32aanc3KePJm+uas=")
 ks.loginResult()
 #sirvelmist
 ki = LINETCR.LINE()
-ki.login(token="EnWOLFpj9e9urpHOHt7c.BTepZ72tDrW45uLRicRoha.RsD4XCOe59iqWmb3MkZvyDkIKBX/kqgnPodxLAg8W7E=")
+ki.login(token="EyPXlpnJZquL4e86rvpd.IMkU6l6mWW7d6nCQwqXfVq.3d+v3tbpz/t2l2qJ3MqVz1m0OU18jzcDEcGU/kI0dG0=")
 ki.loginResult()
 #fawn
 kk = LINETCR.LINE()
-kk.login(token="En3LW9IfVa9uz5XzwVqd.4Dj7axjEPMMGa34wwSA03q.wYBea19hLJ6gWumTidXzyZgfWsTcSexAX3+iav6NAok=")
+kk.login(token="EyGMJecppztx5ijiMYb9.8hTNx6bS2M+lkjmvPDblYq.jx7LgLZaqUc7EA4aS59vE3pV5EFpNeO/6AnqhepBCig=")
 kk.loginResult()
 #iridessa
 kc = LINETCR.LINE()
-kc.login(token="EnvuIAhwGyswO8pMap38.gHrHt08zoPVIZuKSNkyMUa.Uvy4DB0GlfinLy4F3UbYpEZqH3CZjV3qv/tn5UAuhAU=")
+kc.login(token="EyXWssYg3VJmDH7KT1y8.AItJ4tS8fBY7GmlNngXfga.HPH/Mwb8aF7VP36Aop5Z+DrjJeDLrRTjSZFvEIaTucU=")
 kc.loginResult()
 
 #kicker ghost
@@ -67,7 +67,7 @@ kc.loginResult()
 #kl.login(token="")
 #kl.loginResult()
 
-print "ღḯḉḯη-тєαм"
+print "❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage= """ 
@@ -288,7 +288,7 @@ helpMessage= """
 ╚═══════════════════
 ╔═══════════════════╗
 ☬   ᎢᎻX FᎾᎡ ᎷY ᎢᎬᎪᎷ            ☬
-☬       ღḯḉḯη-тєαм                          ☬
+☬  ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂               ☬
 ╚═══════════════════╝
 """
 KAC=[cl,ki,kk,kc,ks,kt]
@@ -308,8 +308,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["u18dd1b6528718253547b4c8acc40ab5a"]
-owner = ["u18dd1b6528718253547b4c8acc40ab5a"]
+admin = ["u70254ffa864521b507735a1e7c57def9"]
+owner = ["u70254ffa864521b507735a1e7c57def9"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -317,10 +317,10 @@ wait = {
     'leaveRoom':False,
     'timeline':True,
     'autoAdd':False,
-    'message':"Thanks for add Me",
+    'message':"شكرا لاضافة 😍 الزعيم 😎 ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂",
     "lang":"JP",
-    "comment":"AutoLike by ღḯḉḯη-тєαм",
-    "welmsg":"welcome to group",
+    "comment":"AutoLike by :❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂:https://line.me/ti/p/Yx3w20LEwb ",
+    "welmsg":"هلا والله 🌷 حيالله💙 ايه والله👈😍👉 لعيونك يا كبير😎 هالرقبة سداده😏 مع تحيات الزعيم ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂",
     "commentOn":True,
     "commentBlack":{},
     "wblack":False,
