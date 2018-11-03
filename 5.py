@@ -19,19 +19,20 @@ except ImportError:
 
 kr = KRIS.LINE()
 #kr.login(qr=True)
-kr.login(token="Eo8PBYfYXqMa46XIWsD9.3UrGMEjECFh9gbFk6EFekq.O4xAC8obAxI4PKEu2NgVJsPXwJbXKFPQ/rJLBffjPHo=")
+kr.login(token="EyM9FUGnUjCgzBD9g1h3.Pt9vsXYFErULrUPoXesFaW.bG0u1iOg2JkP1Q+/Atx9ulMqGS0ee3aSIOTlLxu95Uw=")
 kr.loginResult()
 
 kr1 = KRIS.LINE()
 #kr1.login(qr=True)
-kr1.login(token="EopoZQ49sfSOAX6hBeH7.KN6gqRyZQ0iuRiU5jNIj1W.xbYexNOBmhqAs3waOGtE/MkcIFPa3EKEr3KESNyS6Xk=")
+kr1.login(token="EyM9FUGnUjCgzBD9g1h3.Pt9vsXYFErULrUPoXesFaW.bG0u1iOg2JkP1Q+/Atx9ulMqGS0ee3aSIOTlLxu95Uw=
+")
 
 
 print "╔═════════════════════════\n║╔════════════════════════\n║╠❂➣ KRIS BERHASIL LOGIN\n║╚════════════════════════\n╚═════════════════════════"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpmsg ="""
+helpmsg ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════
 ║ ✰ U.K_M O R A ✰
 ╠═════════════
@@ -68,7 +69,7 @@ helpmsg ="""
 ║╚════════════
 ╚═════════════"""
 
-keymsg ="""
+keymsg ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════
 ║ ✰ U.K_M O R A ✰
 ╠═════════════
@@ -89,7 +90,7 @@ keymsg ="""
 ║╚════════════
 ╚═════════════"""
 
-helppro ="""
+helppro ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════
 ║ ✰ U.K_M O R A ✰
 ╠═════════════
@@ -103,7 +104,7 @@ helppro ="""
 ║╚════════════
 ╚═════════════"""
 
-helpself ="""
+helpself ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════
 ║ ✰ U.K_M O R A ✰
 ╠═════════════
@@ -134,7 +135,7 @@ helpself ="""
 ║╚════════════
 ╚═════════════"""
 
-helpset ="""
+helpset ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════
 ║ ✰ U.K_M O R A ✰
 ╠═════════════
@@ -156,7 +157,7 @@ helpset ="""
 ║╚════════════
 ╚═════════════"""
 
-helpgrup ="""
+helpgrup ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════
 ║ ✰ U.K_M O R A ✰
 ╠═════════════
@@ -184,7 +185,7 @@ helpgrup ="""
 ║╚════════════
 ╚═════════════"""
 
-helptranslate ="""
+helptranslate ="""❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
 ╔═════════════
 ║ ✰ U.K_M O R A ✰
 ╠═════════════
@@ -213,8 +214,8 @@ mid1 = kr1.getProfile().mid
 
 Bots=[mid,mid1]
 induk=[mid]
-owner=["udee46099e25e71f1fd1817cae9e7c429"]
-admin=["udee46099e25e71f1fd1817cae9e7c429",mid,mid1]
+owner=["u70254ffa864521b507735a1e7c57def9"]
+admin=["u70254ffa864521b507735a1e7c57def9",mid,mid1]
 
 wait = {
     'likeOn':False,
@@ -233,7 +234,7 @@ wait = {
     'autoAdd':True,
     'message':"""Thx for add""",
     "lang":"JP",
-    "comment":"👉ąµţ๏ℓɨЌ€ By F A M I L I ....U.K....CANDA TAWA«««",
+    "comment":"👉ąµţ๏ℓɨЌ€ By : ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂«««",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
