@@ -19,7 +19,7 @@ Di C9 :
 - Ketik -> `sudo pip install bs4`
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
+- Ketik -> `git clone https://github.com/m03tasem/chivas
 - Ketik -> `cd vipro2`
 - Ketik -> `python vipro.py`
 
