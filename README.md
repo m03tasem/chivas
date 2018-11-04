@@ -34,7 +34,7 @@ Di Termux :
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install beautifulsoup`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
+- Ketik -> `git clone https://github.com/m03tasem/chivas
 - Ketik -> `cd vipro2`
 - Ketik -> `python2 vipro.py`
 
